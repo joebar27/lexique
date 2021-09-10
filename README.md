@@ -18,6 +18,7 @@ Et classé par ordre alphabétique pour une meilleure visibilité.
 - **Javascript :** Désigne un langage de script orienté objet, il permet d'introduire sur une page web des petites animations ou des effets, côté *Front-end*.
 - **Ligne de commande :** Lignes d'instruction textuelles entré dans un *Terminal* (*Shell*) afin d'interargir avec un système informatique.
 - **PHP :** Hypertext Preproccessor, désigne un langage de script généraliste spécialement conçu pour le développement d'applications web.
+- **Protocol :** Ensemble de règles définissant le mode de communication entre deux ordinateurs pour communiquer à distance par les réseaux (*HTTP, TCP/IP, SSH, ...*).
 - **Serveur :** Un serveur offre des services via un réseau, il peut être **matériel** ou **logiciel** , qui exécute des opérations suivant les requêtes effectuées par le *client*.
 - **SQL :** Structured Query Language, désigne un langage utilisé pour exploiter les *bases de données* , permettant de définir, manipuler, controler les données du *serveur*.
 - **SSH :** Secure Shell, désigne à la fois un protocole de communication et un programme, il permet la connexion d'une machine distante (*serveur*) via une liaison sécurisée.
